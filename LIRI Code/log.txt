@@ -127,3 +127,123 @@ Country of production: USA
 Language: English
 Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
 Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+------+------+-----Spotify Info------+------+-----
+0
+artist(s): La Maquinaria Norteña
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: El Fenómeno
+------+------+-----Spotify Info------+------+-----
+1
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: Por Amor A Mi Pueblo
+------+------+-----Spotify Info------+------+-----
+2
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: 35 Aniversario
+------+------+-----Spotify Info------+------+-----
+3
+artist(s): Kany Garcia
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/6643572fed40758f2e3958129d3fcef1e00ea37c?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Cualquier Día
+------+------+-----Spotify Info------+------+-----
+4
+artist(s): La Combo Tortuga
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/d19e1f042d95d86e2b30670b4d7f2062e958a91d?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: La Terrible Pulenta
+------+------+-----Spotify Info------+------+-----
+5
+artist(s): Patrulla 81
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: A Mi Ley
+------+------+-----Spotify Info------+------+-----
+6
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: La Historia De Los Éxitos (20 Super Temas)
+------+------+-----Spotify Info------+------+-----
+7
+artist(s): La Melodia Perfecta
+song name: Si Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/58f46d3772341946fa1003d1c1a0481bca411fab?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Si Te Vuelvo a Ver
+------+------+-----Spotify Info------+------+-----
+8
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: Ansia De Amar
+------+------+-----Spotify Info------+------+-----
+9
+artist(s): Vicente Fernández
+song name: Por Si No Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/915a9507d7bc47e5c96bb1efcb9c6419d4f816f5?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: De Que Manera Te Olvido
+------+------+-----Spotify Info------+------+-----
+10
+artist(s): Rolf Sanchez
+song name: Por Si No Te Vuelvo a Ver - Bachata Version
+preview song: https://p.scdn.co/mp3-preview/8892d785b44f47f346a918bfc6564d9bf69e57bc?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Por Si No Te Vuelvo a Ver (Bachata Version)
+------+------+-----Spotify Info------+------+-----
+11
+artist(s): La Nobleza De Aguililla
+song name: Hoy Que Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/c8e4248910dca5f9bbb987e816008a8a0c850a70?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: El Patiecito
+------+------+-----Spotify Info------+------+-----
+12
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: 20 Kilates Románticos
+------+------+-----Spotify Info------+------+-----
+13
+artist(s): Santiago Cruz
+song name: Si No Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/b66382ed0ba9918327422e5ba5e9cbc21d1cdae4?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: A Quien Corresponda
+------+------+-----Spotify Info------+------+-----
+14
+artist(s): Mauricio & PalodeAgua
+song name: Por Si No Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/833a7f200e486e07eacff5669fb0b79870f9f80e?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: V&ERNES
+------+------+-----Spotify Info------+------+-----
+15
+artist(s): El Nuevo Ejemplo
+song name: Si Ya No Te Vuelvo a Ver - En vivo
+preview song: https://p.scdn.co/mp3-preview/f829577a9f9ab39b7c491e9e5503594000725f47?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Aqui el Equipo Sigue Fuerte (En vivo)
+------+------+-----Spotify Info------+------+-----
+16
+artist(s): Don Patricio
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/de096bb6387ec28adba4ab86c58a59128f856c40?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Te Vuelvo a Ver
+------+------+-----Spotify Info------+------+-----
+17
+artist(s): Banda Carnaval
+song name: Por Si No Te Vuelvo A Ver
+preview song: null
+album: La Historia De Mis Manos
+------+------+-----Spotify Info------+------+-----
+18
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: 35 Aniversario
+------+------+-----Spotify Info------+------+-----
+19
+artist(s): El Pega Pega de Emilio Reyna
+song name: Por Si No Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/62476a2505ceb3d9301c536eee23bb3736ff5377?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Dos Corazones Partidos

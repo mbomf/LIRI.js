@@ -41,7 +41,7 @@ function bands(UserInput) {
     axios.get(queryUrl)
 
         .then(function (response) {
-            console.log("-------------Events for" + " " + UserInput + "-----------------" + "\n");
+            console.log("------+------+-----Events for" + " " + UserInput + "------+------+-----" + "\n");
             var concerts = response;
 
             for (var i = 0; i < concerts.data.length; i++) {
@@ -53,7 +53,7 @@ function bands(UserInput) {
                 var Dtime = moment(concerts.data[i].datetime).format('L');
                 console.log("Event Happens: " + Dtime + "\n");
 
-                fs.appendFileSync("log.txt", "-------------Events for" + " " + UserInput + "-----------------" + "\n");
+                fs.appendFileSync("log.txt", "------+------+-----Events for" + " " + UserInput + "------+------+-----" + "\n");
                 fs.appendFileSync("log.txt", i + 1 + "\n");
                 fs.appendFileSync("log.txt", "Venue Name: " + concerts.data[i].venue.name + "\n");
                 fs.appendFileSync("log.txt", "Venue Location: " + concerts.data[i].venue.city + "\n");
@@ -77,7 +77,7 @@ function omdb(UserInput) {
     axios.get(queryUrl)
         .then(function (response) {
 
-            console.log("------------Movie Info for" + " " + UserInput + "--------------" + "\n");
+            console.log("------+------+-----Movie Info for" + " " + UserInput + "------+------+-----" + "\n");
             console.log("Title: " + response.data.Title + "\n");
             console.log("Release Year: " + response.data.Year + "\n");
             console.log("IMDB Rating: " + response.data.imdbRating + "\n");
@@ -87,7 +87,7 @@ function omdb(UserInput) {
             console.log("Plot: " + response.data.Plot + "\n");
             console.log("Actors: " + response.data.Actors + "\n");
 
-            fs.appendFileSync("log.txt", "------------Movie Info for" + " " + UserInput + "--------------" + "\n");
+            fs.appendFileSync("log.txt", "------+------+-----Movie Info for" + " " + UserInput + "------+------+-----" + "\n");
             fs.appendFileSync("log.txt", "Title: " + response.data.Title + "\n");
             fs.appendFileSync("log.txt", "Release Year: " + response.data.Year + "\n");
             fs.appendFileSync("log.txt", "IMDB Rating: " + response.data.imdbRating + "\n");
@@ -126,13 +126,13 @@ function spfy(UserInput) {
             return console.log('Error occurred: ' + err);
         }
         for (i = 0; data.tracks.items.length; i++) {
-            console.log("---------Spotify Info------------" + "\n");
+            console.log("------+------+-----Spotify Info------+------+-----" + "\n");
             console.log('Artist(s) -' + " " + data.tracks.items[i].artists[0].name + "\n");
             console.log("The song's name -" + " " + data.tracks.items[i].name + "\n");
             console.log('A preview link  -' + " " + data.tracks.items[i].preview_url + "\n");
             console.log('The album  -' + " " + data.tracks.items[i].album.name + "\n");
 
-            fs.appendFileSync("log.txt", "---------Spotify Info------------\n");
+            fs.appendFileSync("log.txt", "------+------+-----Spotify Info------+------+-----\n");
             fs.appendFileSync("log.txt", i + "\n");
             fs.appendFileSync("log.txt", "artist(s): " + data.tracks.items[i].artists[0].name + "\n");
             fs.appendFileSync("log.txt", "song name: " + data.tracks.items[i].name + "\n");
