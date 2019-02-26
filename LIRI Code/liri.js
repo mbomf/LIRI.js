@@ -49,15 +49,15 @@ function bands(UserInput) {
                 console.log(i + 1);
                 console.log("Venue Name: " + concerts.data[i].venue.name + "\n");
                 console.log("Venue City: " + concerts.data[i].venue.city + "\n");
-                //----------------------- Moment------
+                //----------------------- Mo ment------
                 var Dtime = moment(concerts.data[i].datetime).format('L');
                 console.log("Event Happens: " + Dtime + "\n");
 
-                fs.appendFileSync("songs.txt", "-------------Events for" + " " + UserInput + "-----------------" + "\n");
-                fs.appendFileSync("songs.txt", i + 1 + "\n");
-                fs.appendFileSync("songs.txt", "Venue Name: " + concerts.data[i].venue.name + "\n");
-                fs.appendFileSync("songs.txt", "Venue Location: " + concerts.data[i].venue.city + "\n");
-                fs.appendFileSync("songs.txt", "Date of the Event: " + Dtime + "\n");
+                fs.appendFileSync("log.txt", "-------------Events for" + " " + UserInput + "-----------------" + "\n");
+                fs.appendFileSync("log.txt", i + 1 + "\n");
+                fs.appendFileSync("log.txt", "Venue Name: " + concerts.data[i].venue.name + "\n");
+                fs.appendFileSync("log.txt", "Venue Location: " + concerts.data[i].venue.city + "\n");
+                fs.appendFileSync("log.txt", "Date of the Event: " + Dtime + "\n");
 
             }
         })
@@ -143,7 +143,6 @@ function spfy(UserInput) {
     });
 }
 
-
 // -------------fs() from random.txt---------
 
 function Fs() {
@@ -155,8 +154,5 @@ function Fs() {
         UserInputs(dataArr[0], dataArr.slice(1).join(" "));
     });
 }
-
-
-
 
 UserInputs(liriOption, UserInput);
