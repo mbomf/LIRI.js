@@ -1,0 +1,215 @@
+-------------Events for Afrojack-----------------
+1
+Venue Name: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 03/01/2019
+-------------Events for Afrojack-----------------
+2
+Venue Name: Torino Lingotto Fiere
+Venue Location: Torino
+Date of the Event: 03/02/2019
+-------------Events for Afrojack-----------------
+3
+Venue Name: L'Alpe d'Huez
+Venue Location: Huez
+Date of the Event: 03/13/2019
+-------------Events for sting-----------------
+1
+Venue Name: State Farm Arena
+Venue Location: Hidalgo
+Date of the Event: 05/10/2019
+-------------Events for sting-----------------
+2
+Venue Name: Roundhouse
+Venue Location: London
+Date of the Event: 05/19/2019
+-------------Events for sting-----------------
+3
+Venue Name: O2 Academy Newcastle
+Venue Location: Newcastle Upon Tyne
+Date of the Event: 05/22/2019
+-------------Events for sting-----------------
+4
+Venue Name: O2 Academy Birmingham
+Venue Location: Birmingham
+Date of the Event: 05/24/2019
+-------------Events for sting-----------------
+5
+Venue Name: O2 Apollo Manchester
+Venue Location: Manchester
+Date of the Event: 05/25/2019
+-------------Events for sting-----------------
+6
+Venue Name: Grande Seine - La Seine musicale
+Venue Location: Boulogne Billancourt
+Date of the Event: 05/28/2019
+-------------Events for sting-----------------
+7
+Venue Name: Sports hall "Arena Armeec"
+Venue Location: Sofia
+Date of the Event: 06/01/2019
+-------------Events for sting-----------------
+8
+Venue Name: Dvorana Stožice
+Venue Location: Ljubljana
+Date of the Event: 06/04/2019
+-------------Events for sting-----------------
+9
+Venue Name: Expo Plaza Messe Süd
+Venue Location: Hannover
+Date of the Event: 06/06/2019
+-------------Events for sting-----------------
+10
+Venue Name: Kauno Žalgirio arena
+Venue Location: Kaunas
+Date of the Event: 06/08/2019
+-------------Events for sting-----------------
+11
+Venue Name: Arēna Rīga
+Venue Location: Riga
+Date of the Event: 06/10/2019
+-------------Events for sting-----------------
+12
+Venue Name: Saku Suurhall
+Venue Location: Tallinn
+Date of the Event: 06/12/2019
+-------------Events for sting-----------------
+13
+Venue Name: Kaisaniemi Park
+Venue Location: Helsinki
+Date of the Event: 06/13/2019
+-------------Events for sting-----------------
+14
+Venue Name: Beitostølen Stadion
+Venue Location: Beitostolen
+Date of the Event: 06/15/2019
+-------------Events for sting-----------------
+15
+Venue Name: Solsiden
+Venue Location: Trondheim
+Date of the Event: 06/17/2019
+-------------Events for sting-----------------
+16
+Venue Name: Solsiden
+Venue Location: Trondheim
+Date of the Event: 06/19/2019
+-------------Events for sting-----------------
+17
+Venue Name: Teaterpladsen
+Venue Location: Holstebro
+Date of the Event: 06/21/2019
+-------------Events for sting-----------------
+18
+Venue Name: Jahn-Gelände Forchheim
+Venue Location: Forchheim
+Date of the Event: 06/23/2019
+-------------Events for sting-----------------
+19
+Venue Name: SparkassenPark Mönchengladbach
+Venue Location: Mönchengladbach
+Date of the Event: 06/25/2019
+-------------Events for sting-----------------
+20
+Venue Name: OpenAir-Platz der EmslandArena
+Venue Location: Lingen
+Date of the Event: 06/26/2019
+-------------Events for sting-----------------
+21
+Venue Name: Messe Graz
+Venue Location: Graz
+Date of the Event: 07/04/2019
+-------------Events for sting-----------------
+22
+Venue Name: DE BIJLOKE (TUINEN)
+Venue Location: Gent
+Date of the Event: 07/05/2019
+-------------Events for sting-----------------
+23
+Venue Name: Freilichtbühne Peißnitz
+Venue Location: Schwarzenbach An Der Saale
+Date of the Event: 07/06/2019
+-------------Events for sting-----------------
+24
+Venue Name: DE BIJLOKE (TUINEN)
+Venue Location: Gent
+Date of the Event: 07/07/2019
+-------------Events for sting-----------------
+25
+Venue Name: DE BIJLOKE (TUINEN)
+Venue Location: Gent
+Date of the Event: 07/08/2019
+-------------Events for sting-----------------
+26
+Venue Name: DE BIJLOKE (TUINEN)
+Venue Location: Gent
+Date of the Event: 07/09/2019
+-------------Events for sting-----------------
+27
+Venue Name: Musik-Arena
+Venue Location: Munchen
+Date of the Event: 07/10/2019
+-------------Events for sting-----------------
+28
+Venue Name: Schloßplatz
+Venue Location: Stuttgart
+Date of the Event: 07/11/2019
+-------------Events for sting-----------------
+29
+Venue Name: Zámecký park Slavkov u Brna
+Venue Location: Brno-kralovo
+Date of the Event: 07/12/2019
+-------------Events for sting-----------------
+30
+Venue Name: Kunst!Rasen Bonn/Gronau
+Venue Location: Bonn-bad Godesberg
+Date of the Event: 07/15/2019
+-------------Events for sting-----------------
+31
+Venue Name: Chapiteau
+Venue Location: Marciac
+Date of the Event: 07/25/2019
+-------------Events for sting-----------------
+32
+Venue Name: Théâtre Jean Deschamps
+Venue Location: Carcassonne
+Date of the Event: 07/26/2019
+-------------Events for sting-----------------
+33
+Venue Name: Stade Jules Ladoumègue
+Venue Location: Vitrolles
+Date of the Event: 07/27/2019
+-------------Events for sting-----------------
+34
+Venue Name: Théatre de plein air -Parc des expositions
+Venue Location: Colmar
+Date of the Event: 08/01/2019
+-------------Events for sting-----------------
+35
+Venue Name: Filene Center at Wolf Trap
+Venue Location: Vienna
+Date of the Event: 08/26/2019
+-------------Events for sting-----------------
+36
+Venue Name: Filene Center at Wolf Trap
+Venue Location: Vienna
+Date of the Event: 08/27/2019
+-------------Events for sting-----------------
+37
+Venue Name: Filene Center at Wolf Trap
+Venue Location: Vienna
+Date of the Event: 08/28/2019
+-------------Events for sting-----------------
+38
+Venue Name: Jazz At Aspen-Snowmass
+Venue Location: Aspen
+Date of the Event: 08/30/2019
+-------------Events for sting-----------------
+39
+Venue Name: USANA Amphitheatre
+Venue Location: West Valley City
+Date of the Event: 08/31/2019
+-------------Events for sting-----------------
+40
+Venue Name: Snowmass Village
+Venue Location: Snowmass Village
+Date of the Event: 09/01/2019

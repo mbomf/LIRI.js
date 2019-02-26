@@ -1,0 +1,618 @@
+---------Spotify Info------------
+0
+artist(s): J. Cole
+song name: Album of the Year - Freestyle
+preview song: null
+album: Album of the Year (Freestyle)
+---------Spotify Info------------
+1
+artist(s): Andy Williams
+song name: It's the Most Wonderful Time of the Year
+preview song: https://p.scdn.co/mp3-preview/6b5b5e401c3803f9ff6ff877fe79fae9f22e162b?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: The Andy Williams Christmas Album
+---------Spotify Info------------
+2
+artist(s): The Good Life
+song name: Album Of The Year
+preview song: https://p.scdn.co/mp3-preview/8b6832ccadd0edf6a60cb1023d412c3915450d05?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album Of The Year
+---------Spotify Info------------
+3
+artist(s): Koochie Traveler
+song name: Album of the Year
+preview song: https://p.scdn.co/mp3-preview/aa2bb165ebdc20a764b6821eadcbc8133a648e62?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+4
+artist(s): Glee Cast
+song name: The Most Wonderful Day of the Year (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/dadcfaee76044ab8de05ff203731ad33476bc9cc?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Glee: The Music, The Christmas Album
+---------Spotify Info------------
+5
+artist(s): Faith No More
+song name: Last Cup Of Sorrow
+preview song: https://p.scdn.co/mp3-preview/38a02c7b2c77f622897441b304a991411211a12c?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+6
+artist(s): Faith No More
+song name: Ashes To Ashes
+preview song: https://p.scdn.co/mp3-preview/2717bef0bcdd645f14a78c24ea2a836d97d99871?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+7
+artist(s): Andy Williams
+song name: It's the Most Wonderful Time of the Year
+preview song: https://p.scdn.co/mp3-preview/b64c63d5d6de3cf820b5fbf0fe34ab5b48b6b0a8?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: The Classic Christmas Album
+---------Spotify Info------------
+8
+artist(s): Faith No More
+song name: Stripsearch
+preview song: https://p.scdn.co/mp3-preview/0f8b87aa0ed0b3582abe16455f63972049ecd8f2?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+9
+artist(s): Nohelani Cypriano
+song name: Lihue
+preview song: https://p.scdn.co/mp3-preview/2e5c52bc17e2203f467a5dd5cb9adf43b1a33ab6?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Around Again
+---------Spotify Info------------
+10
+artist(s): Faith No More
+song name: Ashes to Ashes - 2016 Remastered Version
+preview song: https://p.scdn.co/mp3-preview/4f0bdcb5392dd0a92910bc2bf0d6eaa1f61c219e?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year (Remastered; Deluxe Edition)
+---------Spotify Info------------
+11
+artist(s): Harry Connick, Jr.
+song name: It's the Most Wonderful Time of the Year
+preview song: https://p.scdn.co/mp3-preview/82648f324246f7158f20eca93da26e89fd63b535?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: What A Night! A Christmas Album
+---------Spotify Info------------
+12
+artist(s): Faith No More
+song name: Helpless
+preview song: https://p.scdn.co/mp3-preview/187a27eb029567521b88b47d49bf0ed9268643a8?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+13
+artist(s): The Good Life
+song name: Inmates
+preview song: https://p.scdn.co/mp3-preview/684bde96f12ccfa03cd41d7dbf3f1d93fbef413b?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album Of The Year
+---------Spotify Info------------
+14
+artist(s): Faith No More
+song name: Collision
+preview song: https://p.scdn.co/mp3-preview/e4ddcec61828183bd577bd1aa8d833d3918c93a0?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+15
+artist(s): Faith No More
+song name: She Loves Me Not
+preview song: https://p.scdn.co/mp3-preview/1e8b382df617f4f1ad0de6ed88b99e05058e4c94?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+16
+artist(s): Faith No More
+song name: Last Cup of Sorrow - 2016 Remastered Version
+preview song: https://p.scdn.co/mp3-preview/25db1c06f70c10be3fbcad42e2cb9a75a46c51ac?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year (Remastered; Deluxe Edition)
+---------Spotify Info------------
+17
+artist(s): Faith No More
+song name: Naked In Front Of The Computer
+preview song: https://p.scdn.co/mp3-preview/cac66133f5a6287de2457e51c4df50ed59eb81c5?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year
+---------Spotify Info------------
+18
+artist(s): Faith No More
+song name: Stripsearch - 2016 Remastered Version
+preview song: https://p.scdn.co/mp3-preview/5734c360124cb55d07059e2b09c63d68887a4005?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Album of the Year (Remastered; Deluxe Edition)
+---------Spotify Info------------
+19
+artist(s): Cold
+song name: Suffocate - Album Version (Edited)
+preview song: null
+album: Year Of The Spider
+------------Movie Info for shrek--------------
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+---------Spotify Info------------
+0
+artist(s): La Maquinaria Norteña
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: El Fenómeno
+---------Spotify Info------------
+1
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: Por Amor A Mi Pueblo
+---------Spotify Info------------
+2
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: 35 Aniversario
+---------Spotify Info------------
+3
+artist(s): Kany Garcia
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/6643572fed40758f2e3958129d3fcef1e00ea37c?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Cualquier Día
+---------Spotify Info------------
+4
+artist(s): La Combo Tortuga
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/d19e1f042d95d86e2b30670b4d7f2062e958a91d?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: La Terrible Pulenta
+---------Spotify Info------------
+5
+artist(s): Patrulla 81
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: A Mi Ley
+---------Spotify Info------------
+6
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: La Historia De Los Éxitos (20 Super Temas)
+---------Spotify Info------------
+7
+artist(s): La Melodia Perfecta
+song name: Si Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/58f46d3772341946fa1003d1c1a0481bca411fab?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Si Te Vuelvo a Ver
+---------Spotify Info------------
+8
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: Ansia De Amar
+---------Spotify Info------------
+9
+artist(s): Vicente Fernández
+song name: Por Si No Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/915a9507d7bc47e5c96bb1efcb9c6419d4f816f5?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: De Que Manera Te Olvido
+---------Spotify Info------------
+10
+artist(s): Rolf Sanchez
+song name: Por Si No Te Vuelvo a Ver - Bachata Version
+preview song: https://p.scdn.co/mp3-preview/8892d785b44f47f346a918bfc6564d9bf69e57bc?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Por Si No Te Vuelvo a Ver (Bachata Version)
+---------Spotify Info------------
+11
+artist(s): La Nobleza De Aguililla
+song name: Hoy Que Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/c8e4248910dca5f9bbb987e816008a8a0c850a70?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: El Patiecito
+---------Spotify Info------------
+12
+artist(s): Los Bukis
+song name: Si Ya No Te Vuelvo A Ver
+preview song: null
+album: 20 Kilates Románticos
+---------Spotify Info------------
+13
+artist(s): Santiago Cruz
+song name: Si No Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/b66382ed0ba9918327422e5ba5e9cbc21d1cdae4?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: A Quien Corresponda
+---------Spotify Info------------
+14
+artist(s): Mauricio & PalodeAgua
+song name: Por Si No Te Vuelvo A Ver
+preview song: https://p.scdn.co/mp3-preview/833a7f200e486e07eacff5669fb0b79870f9f80e?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: V&ERNES
+---------Spotify Info------------
+15
+artist(s): El Nuevo Ejemplo
+song name: Si Ya No Te Vuelvo a Ver - En vivo
+preview song: https://p.scdn.co/mp3-preview/f829577a9f9ab39b7c491e9e5503594000725f47?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Aqui el Equipo Sigue Fuerte (En vivo)
+---------Spotify Info------------
+16
+artist(s): Don Patricio
+song name: Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/de096bb6387ec28adba4ab86c58a59128f856c40?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Te Vuelvo a Ver
+---------Spotify Info------------
+17
+artist(s): Banda Carnaval
+song name: Por Si No Te Vuelvo A Ver
+preview song: null
+album: La Historia De Mis Manos
+---------Spotify Info------------
+18
+artist(s): Conjunto Primavera
+song name: Si Te Vuelvo A Ver
+preview song: null
+album: 35 Aniversario
+---------Spotify Info------------
+19
+artist(s): El Pega Pega de Emilio Reyna
+song name: Por Si No Te Vuelvo a Ver
+preview song: https://p.scdn.co/mp3-preview/62476a2505ceb3d9301c536eee23bb3736ff5377?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Dos Corazones Partidos
+---------Spotify Info------------
+0
+artist(s): Ruben Peña
+song name: 33
+preview song: https://p.scdn.co/mp3-preview/63a7bb8ae4f010f4a49b0bee13b13fe95e28706e?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+1
+artist(s): Ruben Peña
+song name: Milkhead
+preview song: https://p.scdn.co/mp3-preview/34ace1fa8fe582d6943eafbe0e3e2d664bab16d7?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+2
+artist(s): The Rings
+song name: Milkhead
+preview song: https://p.scdn.co/mp3-preview/73227b83619b1573388d8e0160bf338d09238a90?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+3
+artist(s): Brendi
+song name: Milkhead
+preview song: https://p.scdn.co/mp3-preview/410f41faadf88ff847d22b45233b8391c21a80c9?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: NO
+---------Spotify Info------------
+4
+artist(s): Volvox
+song name: Milkhead
+preview song: https://p.scdn.co/mp3-preview/2b13bc0dbb6383f1c68189dadfb71cb7cf54d14a?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Egg, Pluto, Pup & You
+---------Spotify Info------------
+5
+artist(s): Ruben Peña
+song name: FOCUS
+preview song: https://p.scdn.co/mp3-preview/ef360e8af866c92fd80693dfea32c4184bcdffea?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+6
+artist(s): The Rings
+song name: Come
+preview song: https://p.scdn.co/mp3-preview/d6f2a8bfd6e5e9981b146f1feebf59cd5ad9e042?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+7
+artist(s): Ruben Peña
+song name: Tuscan Soul Interlude (feat. Jada Michael)
+preview song: https://p.scdn.co/mp3-preview/561c18670b1665d670c0b7a74091c4e264bcca78?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+8
+artist(s): The Rings
+song name: I need a love
+preview song: https://p.scdn.co/mp3-preview/b399b835e92993524380ec221f2ad14fa5f25d07?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+9
+artist(s): The Rings
+song name: Looking
+preview song: https://p.scdn.co/mp3-preview/b32c4bf83bd201dd6b61d06d187717eb7228c437?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+10
+artist(s): The Rings
+song name: Costello
+preview song: https://p.scdn.co/mp3-preview/543a386db8a28c335e7ff6e804903d8fc7b07a1d?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+11
+artist(s): The Rings
+song name: Nowhere
+preview song: https://p.scdn.co/mp3-preview/4a1157855a05b2030f2b8ede39b68b91f745e280?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+12
+artist(s): The Rings
+song name: Lily song
+preview song: https://p.scdn.co/mp3-preview/4ac2879057a2ab5fd33da93a4e7270e06a82df81?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+13
+artist(s): The Rings
+song name: Cua cua
+preview song: https://p.scdn.co/mp3-preview/33cd4546cb0810ae3a5d29c66cc77c57f1856a90?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+14
+artist(s): The Rings
+song name: Frankentein
+preview song: https://p.scdn.co/mp3-preview/b5d8f44194ccacfb7a8462769ebf5c102c96cf46?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+15
+artist(s): The Rings
+song name: Crying for you
+preview song: https://p.scdn.co/mp3-preview/187cff62641631b58dfa62ea58a9ac56fa95512b?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+16
+artist(s): The Rings
+song name: Spagheti
+preview song: https://p.scdn.co/mp3-preview/8345d2fea6a6e7fdb6d6f58035958fb89fa1782a?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+17
+artist(s): Ruben Peña
+song name: I'm Floating
+preview song: https://p.scdn.co/mp3-preview/7a28a89123f80444ee83be059ae45172b30abc71?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+18
+artist(s): Ruben Peña
+song name: Dizzy in the Nite (feat. brandO)
+preview song: https://p.scdn.co/mp3-preview/10f3f518d5ca20e2d8b5d3e067722e81f207d0f1?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MILKHEAD
+---------Spotify Info------------
+19
+artist(s): The Rings
+song name: Painting
+preview song: https://p.scdn.co/mp3-preview/eeb714b6f7911fbeae2771bcb0355e3fade15198?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Milkhead
+---------Spotify Info------------
+0
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: The Marshall Mathers LP2 (Deluxe)
+---------Spotify Info------------
+1
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: Rap God
+---------Spotify Info------------
+2
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: The Marshall Mathers LP2
+---------Spotify Info------------
+3
+artist(s): The Animal In Me
+song name: Rap God
+preview song: https://p.scdn.co/mp3-preview/db75550c2bb181f7f40d5bcf5cae69ad687d11fa?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Rap God
+---------Spotify Info------------
+4
+artist(s): Ski Mask The Slump God
+song name: Take A Step Back
+preview song: null
+album: Underground Rap
+---------Spotify Info------------
+5
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: The Marshall Mathers LP2
+---------Spotify Info------------
+6
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: Rap God
+---------Spotify Info------------
+7
+artist(s): Eminem
+song name: Rap God
+preview song: null
+album: The Marshall Mathers LP2
+---------Spotify Info------------
+8
+artist(s): Apache
+song name: God Level 3
+preview song: https://p.scdn.co/mp3-preview/8e7560351086b0af56022d0ea64a89530d5761e6?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Rap Chileno El Sur Es Hardcore Godlevel Enfermos Del Rap
+---------Spotify Info------------
+9
+artist(s): Vinnie Paz
+song name: Wolves Amongst the Sheep
+preview song: https://p.scdn.co/mp3-preview/05f8a2d5a75bf6ad4bd6386136be34f5231eb9e7?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: God of the Serengeti
+---------Spotify Info------------
+10
+artist(s): DJ Crazy J Rodriguez
+song name: Rap God
+preview song: https://p.scdn.co/mp3-preview/cf218573c1e629077458184fcf50eb2fa69127e4?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Dubstep, Vol. 7
+---------Spotify Info------------
+11
+artist(s): JT Music
+song name: The Mob Rap, Pt. 4
+preview song: https://p.scdn.co/mp3-preview/e51fa0cf91329800adca9ac3a0d51bd7d9063216?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: God Mode
+---------Spotify Info------------
+12
+artist(s): PRXJEK
+song name: Yes I Can Actually Rap, You Fucking Idiot (Freestyle) [Prod. LeftField]
+preview song: https://p.scdn.co/mp3-preview/3343b5c78a583cf7396ca05e201f67fb69d2081b?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: WHERE IS YOUR GOD NOW?
+---------Spotify Info------------
+13
+artist(s): Afu-Ra
+song name: God Of Rap
+preview song: null
+album: State Of The Arts
+---------Spotify Info------------
+14
+artist(s): Bone Thugs-N-Harmony
+song name: Rap God
+preview song: https://p.scdn.co/mp3-preview/0da88a013926358d81762e62ad3a1067f3469152?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Thug Brothers 3
+---------Spotify Info------------
+15
+artist(s): Bigg Fatts
+song name: God Rap
+preview song: https://p.scdn.co/mp3-preview/4bda84c6bc1611614c4ba68802f7b7dceabbc613?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Fatty's Food Truck
+---------Spotify Info------------
+16
+artist(s): Ski Mask The Slump God
+song name: Bird Is The Word
+preview song: null
+album: Underground Rap
+---------Spotify Info------------
+17
+artist(s): Genra
+song name: God Family & Rap
+preview song: https://p.scdn.co/mp3-preview/72ef34a28d165b25c8b74d46e4d05d13a3f91c13?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: God Family & Rap
+---------Spotify Info------------
+18
+artist(s): Daddyphatsnaps
+song name: God of War Rap
+preview song: https://p.scdn.co/mp3-preview/1a1d280fcdb8d23fa3d7835d1aa289b34511dd04?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: God of War Rap
+---------Spotify Info------------
+19
+artist(s): Palmmute Productions
+song name: Rap God (NLJ & Palmmute Remix)
+preview song: https://p.scdn.co/mp3-preview/ba6170f02936c668846d0d71a92d6b99772405b5?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Rap God (NLJ & Palmmute Remix)
+---------Spotify Info------------
+0
+artist(s): Bad Bunny
+song name: MIA (feat. Drake)
+preview song: https://p.scdn.co/mp3-preview/1aa25af8a24b4c54dad8958fe3478b78ce5088bb?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: MIA (feat. Drake)
+---------Spotify Info------------
+1
+artist(s): Maluma
+song name: Mala Mía
+preview song: https://p.scdn.co/mp3-preview/273268627d21e468125e392a78c8c8669cf9e8e6?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Mala Mía
+---------Spotify Info------------
+2
+artist(s): iLOVEFRiDAY
+song name: Mia Khalifa
+preview song: https://p.scdn.co/mp3-preview/5d87feb38d4b92d314d7521887d0cf1d9a3f0813?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Mia Khalifa
+---------Spotify Info------------
+3
+artist(s): Bad Bunny
+song name: MIA
+preview song: https://p.scdn.co/mp3-preview/5c64e75f388a160e84e406b01054533879ea7573?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: X 100PRE
+---------Spotify Info------------
+4
+artist(s): Maluma
+song name: Mala Mía - Remix
+preview song: https://p.scdn.co/mp3-preview/c6c3df310d1b9aca510a8fbc8e7e655dc1c67441?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Mala Mía (Remix)
+---------Spotify Info------------
+5
+artist(s): M.I.A.
+song name: Paper Planes
+preview song: null
+album: Kala
+---------Spotify Info------------
+6
+artist(s): Romeo Santos
+song name: Eres Mía
+preview song: https://p.scdn.co/mp3-preview/9e40d6c171957cbf655f6253806ad69b0dfe3a1e?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Fórmula, Vol. 2 (Deluxe Edition)
+---------Spotify Info------------
+7
+artist(s): Pia Mia
+song name: Do It Again
+preview song: null
+album: Do It Again
+---------Spotify Info------------
+8
+artist(s): ABBA
+song name: Mamma Mia
+preview song: null
+album: Abba
+---------Spotify Info------------
+9
+artist(s): Lily James
+song name: Mamma Mia
+preview song: null
+album: Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)
+---------Spotify Info------------
+10
+artist(s): Yandel
+song name: Sólo Mía (feat. Maluma)
+preview song: https://p.scdn.co/mp3-preview/c7c2d06ecf567de3001dec73ab1d5f7ea6b5b9f0?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: #Update
+---------Spotify Info------------
+11
+artist(s): Meryl Streep
+song name: Mamma Mia - From 'Mamma Mia!' Original Motion Picture Soundtrack
+preview song: null
+album: Mamma Mia! The Movie Soundtrack
+---------Spotify Info------------
+12
+artist(s): Natti Natasha
+song name: Soy Mia
+preview song: https://p.scdn.co/mp3-preview/9539f6b7798e7087ac041fa1f431b10132f5df68?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: ilumiNATTI
+---------Spotify Info------------
+13
+artist(s): M.I.A.
+song name: Bad Girls
+preview song: null
+album: Matangi
+---------Spotify Info------------
+14
+artist(s): Dre'es
+song name: Warm (feat. Mia)
+preview song: https://p.scdn.co/mp3-preview/cc2af0446af19f8f01e46602d5c400f7c27abc9d?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Warm (feat. Mia)
+---------Spotify Info------------
+15
+artist(s): Gerardo Ortiz
+song name: Fuiste Mía
+preview song: https://p.scdn.co/mp3-preview/bd0d1a4170e2ea16bafababe36e183a47946340b?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Hoy Más Fuerte
+---------Spotify Info------------
+16
+artist(s): Pia Mia
+song name: Hold On, We're Going Home
+preview song: null
+album: The Gift
+---------Spotify Info------------
+17
+artist(s): Marc Anthony
+song name: Tu Vida en la Mía
+preview song: https://p.scdn.co/mp3-preview/c80a842a0ed5852af1781ccdec7159ef1183d172?cid=cc47aff5008c4a9db5c4933ab20e81c4
+album: Tu Vida en la Mía
+---------Spotify Info------------
+18
+artist(s): Pia Mia
+song name: F**k With U
+preview song: null
+album: F**k With U
+---------Spotify Info------------
+19
+artist(s): Amanda Seyfried
+song name: Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack
+preview song: null
+album: Mamma Mia! The Movie Soundtrack
+------------Movie Info for shrek--------------
+Title: Shrek
+Release Year: 2001
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 88%
+Country of production: USA
+Language: English
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
